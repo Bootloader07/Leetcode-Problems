@@ -1,5 +1,5 @@
-# DSA
-DSA practice repository
+# DSA-leetcode
+-->DSA in C++ Leetcode questions  
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
