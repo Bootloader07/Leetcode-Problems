@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bootloader07/DSA/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Bootloader07/DSA/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bootloader07/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Bootloader07/DSA/tree/master/0217-contains-duplicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Bootloader07/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Bootloader07/DSA/tree/master/0344-reverse-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Bootloader07/DSA/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
