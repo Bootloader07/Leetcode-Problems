@@ -8,11 +8,9 @@ public:
             s2.push_back(x);
         }
     }
-    int j=0;
     string s3;
     for(int i = s2.length()-1;i>=0;i--){
         s3.push_back(s2[i]);
-        j++;
     }
     if(s2==s3){
         return true;
