@@ -43,12 +43,14 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Bootloader07/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Bootloader07/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Bootloader07/DSA/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/Bootloader07/DSA/tree/master/1108-defanging-an-ip-address) |
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Bootloader07/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Bootloader07/DSA/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
