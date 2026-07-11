@@ -36,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Bootloader07/DSA/tree/master/0069-sqrtx) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Bootloader07/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sorting
 |  |
@@ -59,5 +60,6 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Bootloader07/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Bootloader07/DSA/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Bootloader07/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
