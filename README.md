@@ -11,6 +11,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bootloader07/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Bootloader07/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Bootloader07/DSA/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Bootloader07/DSA/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Bootloader07/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Bootloader07/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Bootloader07/DSA/tree/master/0069-sqrtx) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Bootloader07/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3536-maximum-product-of-two-digits](https://github.com/Bootloader07/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
@@ -44,6 +46,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Bootloader07/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bootloader07/DSA/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Bootloader07/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
