@@ -45,6 +45,7 @@
 | [0069-sqrtx](https://github.com/Bootloader07/DSA/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Bootloader07/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bootloader07/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Bootloader07/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -63,6 +64,7 @@
 | [0242-valid-anagram](https://github.com/Bootloader07/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Bootloader07/DSA/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/Bootloader07/DSA/tree/master/1108-defanging-an-ip-address) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bootloader07/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bootloader07/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
 |  |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bootloader07/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bootloader07/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
