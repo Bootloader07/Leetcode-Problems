@@ -28,6 +28,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Bootloader07/DSA/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
@@ -43,6 +44,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Bootloader07/DSA/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Bootloader07/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bootloader07/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -63,6 +65,7 @@
 | [0125-valid-palindrome](https://github.com/Bootloader07/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Bootloader07/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Bootloader07/DSA/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Bootloader07/DSA/tree/master/1108-defanging-an-ip-address) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bootloader07/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
