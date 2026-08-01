@@ -42,6 +42,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Bootloader07/DSA/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0412-fizz-buzz) |
