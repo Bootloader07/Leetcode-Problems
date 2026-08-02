@@ -20,6 +20,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bootloader07/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Bootloader07/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Bootloader07/DSA/tree/master/1929-concatenation-of-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Bootloader07/Leetcode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0217-contains-duplicate](https://github.com/Bootloader07/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bootloader07/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Bootloader07/Leetcode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
 ## Simulation
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bootloader07/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Bootloader07/Leetcode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bootloader07/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Bootloader07/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## String
@@ -105,6 +108,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [2248-intersection-of-multiple-arrays](https://github.com/Bootloader07/Leetcode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bootloader07/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
