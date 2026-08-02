@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bootloader07/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Bootloader07/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Bootloader07/DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Bootloader07/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0724-find-pivot-index) |
@@ -25,6 +26,7 @@
 | [0001-two-sum](https://github.com/Bootloader07/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Bootloader07/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bootloader07/DSA/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Bootloader07/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bootloader07/DSA/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bootloader07/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bootloader07/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -78,12 +81,14 @@
 | [0125-valid-palindrome](https://github.com/Bootloader07/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Bootloader07/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Bootloader07/DSA/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Bootloader07/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Bootloader07/DSA/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Bootloader07/DSA/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Bootloader07/DSA/tree/master/0704-binary-search) |
 ## Interactive
 |  |
