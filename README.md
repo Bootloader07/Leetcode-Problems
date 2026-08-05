@@ -29,6 +29,7 @@
 | [0217-contains-duplicate](https://github.com/Bootloader07/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bootloader07/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Bootloader07/Leetcode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [3731-find-missing-elements](https://github.com/Bootloader07/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Simulation
@@ -77,6 +78,7 @@
 | [0125-valid-palindrome](https://github.com/Bootloader07/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Bootloader07/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Bootloader07/DSA/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Bootloader07/DSA/tree/master/1108-defanging-an-ip-address) |
@@ -112,6 +114,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Bootloader07/Leetcode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bootloader07/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
