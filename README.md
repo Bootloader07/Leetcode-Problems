@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bootloader07/DSA/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Bootloader07/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bootloader07/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -89,6 +90,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Bootloader07/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Bootloader07/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Bootloader07/DSA/tree/master/0344-reverse-string) |
