@@ -1,13 +1,17 @@
 class Solution {
 public:
     string defangIPaddr(string address) {
-        for(int i = 0;i<address.length();i++){
-            if(address[i]=='.'){
-                address.replace(i,1,"[.]");
-                i = i + 3;
+        string s;
+        for(char x : address){
+            if(x!='.'){
+                s.push_back(x);
             }
-            
+            if(x=='.'){
+                s.push_back('[');
+                s.push_back('.');
+                s.push_back(']');
+            }
         }
-        return address;
+        return s;
     }
 };
