@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Bootloader07/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Bootloader07/DSA/tree/master/0242-valid-anagram) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Bootloader07/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Bootloader07/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Bootloader07/DSA/tree/master/0344-reverse-string) |
@@ -132,4 +134,20 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bootloader07/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
