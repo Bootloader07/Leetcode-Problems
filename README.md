@@ -24,6 +24,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Bootloader07/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Bootloader07/DSA/tree/master/1929-concatenation-of-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Bootloader07/Leetcode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bootloader07/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Bootloader07/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Bootloader07/Leetcode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bootloader07/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Bootloader07/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
@@ -73,6 +75,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bootloader07/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Bootloader07/Leetcode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bootloader07/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bootloader07/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Bootloader07/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Bootloader07/Leetcode-Problems/tree/master/3731-find-missing-elements) |
