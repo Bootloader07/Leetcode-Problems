@@ -22,6 +22,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bootloader07/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Bootloader07/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Bootloader07/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Bootloader07/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Bootloader07/DSA/tree/master/1929-concatenation-of-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Bootloader07/Leetcode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bootloader07/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -154,4 +155,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Bootloader07/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
