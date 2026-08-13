@@ -22,6 +22,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bootloader07/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Bootloader07/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Bootloader07/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/Bootloader07/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Bootloader07/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Bootloader07/DSA/tree/master/1929-concatenation-of-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Bootloader07/Leetcode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
@@ -35,6 +36,7 @@
 | [0242-valid-anagram](https://github.com/Bootloader07/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0383-ransom-note) |
+| [1512-number-of-good-pairs](https://github.com/Bootloader07/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Bootloader07/Leetcode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bootloader07/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Bootloader07/Leetcode-Problems/tree/master/3731-find-missing-elements) |
@@ -61,6 +63,7 @@
 | [0412-fizz-buzz](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Bootloader07/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/Bootloader07/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Bootloader07/Leetcode-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bootloader07/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bootloader07/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -129,6 +132,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0383-ransom-note) |
+| [1512-number-of-good-pairs](https://github.com/Bootloader07/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Bootloader07/Leetcode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bootloader07/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
