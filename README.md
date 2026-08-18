@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/Bootloader07/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bootloader07/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bootloader07/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Bootloader07/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bootloader07/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bootloader07/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bootloader07/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -75,6 +77,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bootloader07/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bootloader07/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -135,6 +138,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bootloader07/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Bootloader07/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
@@ -168,4 +172,12 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Bootloader07/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
