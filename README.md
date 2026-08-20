@@ -31,6 +31,7 @@
 | [1929-concatenation-of-array](https://github.com/Bootloader07/DSA/tree/master/1929-concatenation-of-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Bootloader07/Leetcode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bootloader07/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Bootloader07/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/Bootloader07/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/Bootloader07/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Bootloader07/DSA/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Bootloader07/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Dynamic Programming
 |  |
 | ------- |
