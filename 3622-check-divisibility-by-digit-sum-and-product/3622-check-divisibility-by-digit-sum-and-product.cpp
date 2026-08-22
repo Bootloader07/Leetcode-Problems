@@ -11,7 +11,7 @@ public:
             prod = prod * x;
             num = num / 10;
         }
-        cout<<sum<<" "<<prod;
+    
         if(n%(sum+prod)==0){
             return true;
         }
