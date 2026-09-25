@@ -1,18 +1,17 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        unordered_map<char,int> str1;
-        for(char x : s){
-            str1[x]++;
+        unordered_map<char,int> a;
+        unordered_map<char,int> b;
+        for(auto x : s){
+            a[x]++;
         }
-        unordered_map<char,int> str2;
-        for(char x : t){
-            str2[x]++;
+        for(auto x : t){
+            b[x]++;
         }
-        if(str1==str2){
+        if(a==b){
             return true;
-        }
-        else{
+        }else{
             return false;
         }
     }
